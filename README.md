@@ -6,7 +6,7 @@ This repository contains two Python scripts that demonstrate the use of control 
 
 ## ✅ Task 1: Check if a Number is Even or Odd
 
-**Filename:** `task1_even_or_odd.py`
+**Filename:** `Assignment2_Task1.py`
 
 ### Description:
 This script:
@@ -22,7 +22,7 @@ The number is odd.
 
 ## 🔁 Task 2: Sum of Integers from 1 to 50 Using a Loop
 
-**Filename:** `task2_sum_1_to_50.py`
+**Filename:** `Assignment2_Task2.py`
 
 ### Description:
 This script:
